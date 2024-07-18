@@ -13,4 +13,4 @@ The `cmd/` directory contains a simple CLI tool that uses the `chipotle-go` pack
 
 ```bash
 make db
-```bash
+```
