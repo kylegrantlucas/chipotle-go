@@ -1,0 +1,5 @@
+*.json
+*.bak
+*.zst
+*.db
+*.sh
